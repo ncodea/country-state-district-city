@@ -1,0 +1,14 @@
+{ 
+  "districts": [
+    {
+     "id": 19100,
+     "name": "Alappuzha",
+     "state_id": 19
+    },
+    {
+     "id": 19101,
+     "name": "Ernakulam",
+     "state_id": 19
+    }
+ ]
+}
