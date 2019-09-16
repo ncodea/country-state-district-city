@@ -1,0 +1,14 @@
+{ 
+  "cities": [
+    {
+     "id": 191001000,
+     "name": "Alappuzha",
+     "district_id": 19100
+    },
+    {
+     "id": 191001001,
+     "name": "Ambalapuzha",
+     "district_id": 19100
+    }
+  ]
+}

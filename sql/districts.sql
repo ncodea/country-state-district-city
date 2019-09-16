@@ -1,0 +1,15 @@
+INSERT INTO districts (id, name, state_id) VALUES
+(19100, 'Alappuzha', 19),
+(19101, 'Ernakulam', 19),
+(19102,'Idukki',19),
+(19103,'Kannur',19),
+(19104,'Kasaragod',19),
+(19105,'Kollam',19),
+(19106,'Kottayam',19),
+(19107,'Kozhikode',19),
+(19108,'Malappuram',19),
+(19109,'Palakkad',19),
+(19110,'Pathanamthitta',19),
+(19111,'Thiruvananthapuram',19),
+(19112,'Thrissur',19),
+(19113,'Wayanad',19);

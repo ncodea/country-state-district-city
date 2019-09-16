@@ -1,0 +1,80 @@
+{ 
+  "districts": [
+    {
+     "id": 19100,
+     "name": "Alappuzha",
+     "state_id": 19
+    },
+    {
+     "id": 19101,
+     "name": "Ernakulam",
+     "state_id": 19
+    },
+    {
+     "id": 19102,
+     "name": "Idukki",
+     "state_id": 19
+    },
+    {
+     "id": 19103,
+     "name": "Kannur",
+     "state_id": 19
+    },
+    {
+     "id": 19104,
+     "name": "Kasaragod",
+     "state_id": 19
+    },
+    {
+     "id": 19105,
+     "name": "Kollam",
+     "state_id": 19
+    },
+    {
+     "id": 19106,
+     "name": "Kottayam",
+     "state_id": 19
+    },
+    {
+     "id": 19107,
+     "name": "Kozhikode",
+     "state_id": 19
+    },
+    {
+     "id": 19108,
+     "name": "Malappuram",
+     "state_id": 19
+    },
+    {
+     "id": 19109,
+     "name": "Palakkad",
+     "state_id": 19
+    },
+    {
+     "id": 19110,
+     "name": "Pathanamthitta",
+     "state_id": 19
+    },
+    {
+     "id": 19111,
+     "name": "Thiruvananthapuram",
+     "state_id": 19
+    },
+    {
+     "id": 19112,
+     "name": "Thrissur",
+     "state_id": 19
+    },
+    {
+     "id": 19113,
+     "name": "Wayanad",
+     "state_id": 19
+    },
+    {
+     "id": 
+     "name": 
+     "state_id": 
+    },
+    
+ ]
+}
