@@ -146,7 +146,6 @@ INSERT INTO districts (id, name, state_id) VALUES
 (4100,'Nicobars',4),
 (4100,'Nicobars',4),
 (4100,'Nicobars',4),
-(4100,'Nicobars',4),
 (4100,'Nicobars',4);
 
 
