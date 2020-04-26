@@ -70,11 +70,316 @@
      "name": "Wayanad",
      "state_id": 19
     },
-    {
-     "id": 
-     "name": 
-     "state_id": 
-    },
-    
+	{
+    "id": 35100,
+    "name": "Ariyalur",
+    "state_id": 35
+  },
+  {
+    "id": 35101,
+    "name": "Chennai",
+    "state_id": 35
+  },
+  {
+    "id": 35102,
+    "name": "Coimbatore",
+    "state_id": 35
+  },
+  {
+    "id": 35103,
+    "name": "Cuddalore",
+    "state_id": 35
+  },
+  {
+    "id": 35104,
+    "name": "Dharmapuri",
+    "state_id": 35
+  },
+  {
+    "id": 35105,
+    "name": "Dindigul",
+    "state_id": 35
+  },
+  {
+    "id": 35106,
+    "name": "Namakkal",
+    "state_id": 35
+  },
+  {
+    "id": 35107,
+    "name": "Erode",
+    "state_id": 35
+  },
+  {
+    "id": 35108,
+    "name": "Kanchipuram",
+    "state_id": 35
+  },
+  {
+    "id": 35109,
+    "name": "Kanniyakumari",
+    "state_id": 35
+  },
+  {
+    "id": 35110,
+    "name": "Karur",
+    "state_id": 35
+  },
+  {
+    "id": 35111,
+    "name": "Krishnagiri",
+    "state_id": 35
+  },
+  {
+    "id": 35112,
+    "name": "Madurai",
+    "state_id": 35
+  },
+  {
+    "id": 35113,
+    "name": "Nagapattinam",
+    "state_id": 35
+  },
+  {
+    "id": 35114,
+    "name": "Nilgiri",
+    "state_id": 35
+  },
+  {
+    "id": 35115,
+    "name": "Perambalur",
+    "state_id": 35
+  },
+  {
+    "id": 35116,
+    "name": "Pudukkottai",
+    "state_id": 35
+  },
+  {
+    "id": 35117,
+    "name": "Ramanathapuram",
+    "state_id": 35
+  },
+  {
+    "id": 35118,
+    "name": "Salem",
+    "state_id": 35
+  },
+  {
+    "id": 35119,
+    "name": "Sivaganga",
+    "state_id": 35
+  },
+  {
+    "id": 35120,
+    "name": "Thanjavur",
+    "state_id": 35
+  },
+  {
+    "id": 35121,
+    "name": "Theni",
+    "state_id": 35
+  },
+  {
+    "id": 35122,
+    "name": "Thiruvallur",
+    "state_id": 35
+  },
+  {
+    "id": 35123,
+    "name": "Thiruvarur",
+    "state_id": 35
+  },
+  {
+    "id": 35124,
+    "name": "Tiruchirappalli",
+    "state_id": 35
+  },
+  {
+    "id": 35125,
+    "name": "Tirunelveli",
+    "state_id": 35
+  },
+  {
+    "id": 35126,
+    "name": "Tiruppur",
+    "state_id": 35
+  },
+  {
+    "id": 35127,
+    "name": "Tiruvannamalai",
+    "state_id": 35
+  },
+  {
+    "id": 35128,
+    "name": "Tuticorin",
+    "state_id": 35
+  },
+  {
+    "id": 35129,
+    "name": "Vellore",
+    "state_id": 35
+  },
+  {
+    "id": 35130,
+    "name": "Villupuram",
+    "state_id": 35
+  },
+  {
+    "id": 35131,
+    "name": "Virudhunagar",
+    "state_id": 35
+  },
+  {
+    "id": 17100,
+    "name": "Bagalkot",
+    "state_id": 17
+  },
+  {
+    "id": 17101,
+    "name": "Ballari",
+    "state_id": 17
+  },
+  {
+    "id": 17102,
+    "name": "Belgaum",
+    "state_id": 17
+  },
+  {
+    "id": 17103,
+    "name": "Bengaluru Rural",
+    "state_id": 17
+  },
+  {
+    "id": 17104,
+    "name": "Bengaluru Urban",
+    "state_id": 17
+  },
+  {
+    "id": 17105,
+    "name": "Bidar",
+    "state_id": 17
+  },
+  {
+    "id": 17106,
+    "name": "Chamaraja nagar",
+    "state_id": 17
+  },
+  {
+    "id": 17107,
+    "name": "Chikballapur",
+    "state_id": 17
+  },
+  {
+    "id": 17108,
+    "name": "Chikkamagaluru",
+    "state_id": 17
+  },
+  {
+    "id": 17109,
+    "name": "Chitradurga",
+    "state_id": 17
+  },
+  {
+    "id": 17110,
+    "name": "Coorg",
+    "state_id": 17
+  },
+  {
+    "id": 17111,
+    "name": "Dakshin Kannad",
+    "state_id": 17
+  },
+  {
+    "id": 17112,
+    "name": "Davangere",
+    "state_id": 17
+  },
+  {
+    "id": 17113,
+    "name": "Dharwad",
+    "state_id": 17
+  },
+  {
+    "id": 17114,
+    "name": "Gadag",
+    "state_id": 17
+  },
+  {
+    "id": 17115,
+    "name": "Hassan",
+    "state_id": 17
+  },
+  {
+    "id": 17116,
+    "name": "Haveri",
+    "state_id": 17
+  },
+  {
+    "id": 17117,
+    "name": "Kalaburagi",
+    "state_id": 17
+  },
+  {
+    "id": 17118,
+    "name": "Kolar",
+    "state_id": 17
+  },
+  {
+    "id": 17119,
+    "name": "Koppal",
+    "state_id": 17
+  },
+  {
+    "id": 17120,
+    "name": "Mandya",
+    "state_id": 17
+  },
+  {
+    "id": 17121,
+    "name": "Mysuru",
+    "state_id": 17
+  },
+  {
+    "id": 17122,
+    "name": "Raichur",
+    "state_id": 17
+  },
+  {
+    "id": 17123,
+    "name": "Ramanagara",
+    "state_id": 17
+  },
+  {
+    "id": 17124,
+    "name": "Shivamogga",
+    "state_id": 17
+  },
+  {
+    "id": 17125,
+    "name": "Tumkur",
+    "state_id": 17
+  },
+  {
+    "id": 17126,
+    "name": "Udupi",
+    "state_id": 17
+  },
+  {
+    "id": 17127,
+    "name": "Uttar Kannad",
+    "state_id": 17
+  },
+  {
+    "id": 17128,
+    "name": "Vijayapura",
+    "state_id": 17
+  },
+  {
+    "id": 17129,
+    "name": "Yadgir",
+    "state_id": 17
+  }
+  
  ]
 }
